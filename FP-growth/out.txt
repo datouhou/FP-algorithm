@@ -1,0 +1,18 @@
+whole milk,whipped/sour cream 317
+whole milk,citrus fruit 300
+whole milk,pastry 327
+rolls/buns,sausage 301
+whole milk,tropical fruit 416
+other vegetables,tropical fruit 352
+whole milk,root vegetables 481
+other vegetables,root vegetables 466
+whole milk,bottled water 338
+whole milk,yogurt 551
+other vegetables,yogurt 427
+rolls/buns,yogurt 338
+whole milk,soda 394
+rolls/buns,soda 377
+other vegetables,soda 322
+whole milk,rolls/buns 557
+other vegetables,rolls/buns 419
+whole milk,other vegetables 736

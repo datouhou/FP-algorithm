@@ -1,0 +1,24 @@
+bottled water   ====>whole milk  0.310948
+citrus fruit   ====>whole milk  0.36855
+rolls/buns   ====>other vegetables  0.23162
+other vegetables   ====>rolls/buns  0.220179
+root vegetables   ====>other vegetables  0.434701
+other vegetables   ====>root vegetables  0.244877
+tropical fruit   ====>other vegetables  0.342054
+whole milk   ====>other vegetables  0.292877
+other vegetables   ====>whole milk  0.386758
+yogurt   ====>other vegetables  0.311224
+other vegetables   ====>yogurt  0.224383
+pastry   ====>whole milk  0.373714
+sausage   ====>rolls/buns  0.325758
+soda   ====>rolls/buns  0.219825
+rolls/buns   ====>soda  0.208402
+whole milk   ====>rolls/buns  0.221647
+rolls/buns   ====>whole milk  0.307905
+yogurt   ====>rolls/buns  0.246356
+root vegetables   ====>whole milk  0.448694
+soda   ====>whole milk  0.229738
+tropical fruit   ====>whole milk  0.403101
+whipped/sour cream   ====>whole milk  0.449645
+yogurt   ====>whole milk  0.401603
+whole milk   ====>yogurt  0.21926
