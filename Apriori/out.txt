@@ -1,24 +1,989 @@
-bottled water   ====>whole milk  0.310948
-citrus fruit   ====>whole milk  0.36855
-rolls/buns   ====>other vegetables  0.23162
-other vegetables   ====>rolls/buns  0.220179
-root vegetables   ====>other vegetables  0.434701
-other vegetables   ====>root vegetables  0.244877
-tropical fruit   ====>other vegetables  0.342054
-whole milk   ====>other vegetables  0.292877
-other vegetables   ====>whole milk  0.386758
-yogurt   ====>other vegetables  0.311224
-other vegetables   ====>yogurt  0.224383
-pastry   ====>whole milk  0.373714
-sausage   ====>rolls/buns  0.325758
-soda   ====>rolls/buns  0.219825
-rolls/buns   ====>soda  0.208402
-whole milk   ====>rolls/buns  0.221647
-rolls/buns   ====>whole milk  0.307905
-yogurt   ====>rolls/buns  0.246356
-root vegetables   ====>whole milk  0.448694
-soda   ====>whole milk  0.229738
-tropical fruit   ====>whole milk  0.403101
-whipped/sour cream   ====>whole milk  0.449645
-yogurt   ====>whole milk  0.401603
-whole milk   ====>yogurt  0.21926
+UHT-milk  bottled water  72
+UHT-milk  other vegetables  80
+UHT-milk  rolls/buns  63
+UHT-milk  soda  75
+UHT-milk  yogurt  73
+baking powder  other vegetables  72
+baking powder  whole milk  91
+beef  bottled water  61
+beef  butter  57
+beef  citrus fruit  83
+beef  domestic eggs  59
+beef  fruit/vegetable juice  50
+beef  margarine  61
+beef  newspapers  63
+beef  other vegetables  194
+beef  pastry  62
+beef  pork  75
+beef  rolls/buns  134
+beef  root vegetables  171
+beef  sausage  55
+beef  soda  80
+beef  tropical fruit  75
+beef  whipped/sour cream  66
+beef  whole milk  209
+beef  yogurt  115
+berries  citrus fruit  53
+berries  other vegetables  101
+berries  rolls/buns  65
+berries  root vegetables  65
+berries  soda  72
+berries  tropical fruit  66
+berries  whipped/sour cream  89
+berries  whole milk  116
+berries  yogurt  104
+beverages  other vegetables  51
+beverages  rolls/buns  53
+beverages  whole milk  67
+beverages  yogurt  54
+bottled beer  bottled water  155
+bottled beer  brown bread  51
+bottled beer  butter  57
+bottled beer  citrus fruit  60
+bottled beer  frankfurter  53
+bottled beer  fruit/vegetable juice  69
+bottled beer  margarine  60
+bottled beer  napkins  51
+bottled beer  other vegetables  159
+bottled beer  pip fruit  58
+bottled beer  pork  51
+bottled beer  rolls/buns  134
+bottled beer  root vegetables  95
+bottled beer  sausage  77
+bottled beer  shopping bags  55
+bottled beer  soda  167
+bottled beer  tropical fruit  81
+bottled beer  whole milk  201
+bottled beer  yogurt  91
+bottled water  brown bread  81
+bottled water  butter  88
+bottled water  canned beer  79
+bottled water  chicken  52
+bottled water  chocolate  57
+bottled water  citrus fruit  133
+bottled water  coffee  72
+bottled water  cream cheese   58
+bottled water  curd  60
+bottled water  dessert  51
+bottled water  domestic eggs  90
+bottled water  frankfurter  72
+bottled water  frozen vegetables  61
+bottled water  fruit/vegetable juice  140
+bottled water  hygiene articles  56
+bottled water  margarine  101
+bottled water  misc. beverages  52
+bottled water  napkins  85
+bottled water  newspapers  111
+bottled water  onions  58
+bottled water  other vegetables  244
+bottled water  pastry  88
+bottled water  pip fruit  104
+bottled water  pork  73
+bottled water  rolls/buns  238
+bottled water  root vegetables  154
+bottled water  sausage  118
+bottled water  shopping bags  108
+bottled water  soda  285
+bottled water  tropical fruit  182
+bottled water  whipped/sour cream  86
+bottled water  whole milk  338
+bottled water  yogurt  226
+brown bread  butter  57
+brown bread  citrus fruit  82
+brown bread  domestic eggs  67
+brown bread  frankfurter  70
+brown bread  fruit/vegetable juice  82
+brown bread  margarine  64
+brown bread  newspapers  75
+brown bread  other vegetables  184
+brown bread  pastry  95
+brown bread  pip fruit  75
+brown bread  pork  55
+brown bread  rolls/buns  124
+brown bread  root vegetables  100
+brown bread  sausage  105
+brown bread  shopping bags  91
+brown bread  soda  124
+brown bread  tropical fruit  105
+brown bread  whole milk  248
+brown bread  yogurt  143
+butter  chicken  57
+butter  chocolate  61
+butter  citrus fruit  90
+butter  curd  67
+butter  domestic eggs  95
+butter  frozen vegetables  57
+butter  fruit/vegetable juice  79
+butter  margarine  66
+butter  newspapers  57
+butter  other vegetables  197
+butter  pastry  75
+butter  pip fruit  72
+butter  pork  54
+butter  rolls/buns  132
+butter  root vegetables  127
+butter  sausage  85
+butter  soda  87
+butter  tropical fruit  98
+butter  whipped/sour cream  100
+butter  whole milk  271
+butter  yogurt  144
+butter milk  other vegetables  102
+butter milk  pip fruit  50
+butter milk  rolls/buns  75
+butter milk  root vegetables  50
+butter milk  tropical fruit  54
+butter milk  whole milk  114
+butter milk  yogurt  84
+cake bar  whole milk  55
+candy  other vegetables  68
+candy  rolls/buns  70
+candy  soda  85
+candy  tropical fruit  53
+candy  whole milk  81
+candy  yogurt  54
+canned beer  other vegetables  89
+canned beer  rolls/buns  111
+canned beer  sausage  62
+canned beer  shopping bags  112
+canned beer  soda  136
+canned beer  whole milk  87
+canned beer  yogurt  53
+canned fish  other vegetables  50
+cat food  other vegetables  64
+cat food  whole milk  87
+cat food  yogurt  61
+chewing gum  soda  53
+chewing gum  whole milk  50
+chicken  citrus fruit  68
+chicken  domestic eggs  61
+chicken  frozen vegetables  66
+chicken  newspapers  51
+chicken  other vegetables  176
+chicken  pork  57
+chicken  rolls/buns  95
+chicken  root vegetables  107
+chicken  sausage  52
+chicken  soda  82
+chicken  tropical fruit  63
+chicken  whipped/sour cream  71
+chicken  whole milk  173
+chicken  yogurt  82
+chocolate  citrus fruit  63
+chocolate  fruit/vegetable juice  67
+chocolate  long life bakery product  52
+chocolate  newspapers  54
+chocolate  other vegetables  125
+chocolate  pastry  79
+chocolate  pip fruit  60
+chocolate  rolls/buns  116
+chocolate  root vegetables  63
+chocolate  sausage  65
+chocolate  shopping bags  80
+chocolate  soda  133
+chocolate  tropical fruit  80
+chocolate  waffles  57
+chocolate  whole milk  164
+chocolate  yogurt  91
+citrus fruit  coffee  63
+citrus fruit  cream cheese   56
+citrus fruit  curd  70
+citrus fruit  domestic eggs  102
+citrus fruit  frankfurter  64
+citrus fruit  frozen vegetables  65
+citrus fruit  fruit/vegetable juice  102
+citrus fruit  hygiene articles  52
+citrus fruit  margarine  78
+citrus fruit  napkins  75
+citrus fruit  newspapers  82
+citrus fruit  onions  55
+citrus fruit  other vegetables  284
+citrus fruit  pastry  96
+citrus fruit  pip fruit  136
+citrus fruit  pork  64
+citrus fruit  rolls/buns  165
+citrus fruit  root vegetables  174
+citrus fruit  sausage  111
+citrus fruit  shopping bags  96
+citrus fruit  soda  126
+citrus fruit  tropical fruit  196
+citrus fruit  whipped/sour cream  107
+citrus fruit  whole milk  300
+citrus fruit  yogurt  213
+coffee  frankfurter  50
+coffee  fruit/vegetable juice  59
+coffee  other vegetables  132
+coffee  pastry  68
+coffee  pip fruit  68
+coffee  rolls/buns  108
+coffee  root vegetables  72
+coffee  sausage  68
+coffee  shopping bags  92
+coffee  soda  98
+coffee  tropical fruit  70
+coffee  whipped/sour cream  60
+coffee  whole milk  184
+coffee  yogurt  96
+cream cheese   curd  50
+cream cheese   domestic eggs  50
+cream cheese   fruit/vegetable juice  56
+cream cheese   other vegetables  135
+cream cheese   pip fruit  60
+cream cheese   rolls/buns  98
+cream cheese   root vegetables  74
+cream cheese   sausage  55
+cream cheese   shopping bags  55
+cream cheese   soda  67
+cream cheese   tropical fruit  71
+cream cheese   whipped/sour cream  63
+cream cheese   whole milk  162
+cream cheese   yogurt  122
+curd  dessert  51
+curd  domestic eggs  64
+curd  margarine  62
+curd  newspapers  56
+curd  other vegetables  169
+curd  pastry  74
+curd  pip fruit  77
+curd  rolls/buns  99
+curd  root vegetables  107
+curd  sausage  75
+curd  shopping bags  53
+curd  soda  80
+curd  tropical fruit  101
+curd  whipped/sour cream  103
+curd  whole milk  257
+curd  yogurt  170
+dessert  fruit/vegetable juice  59
+dessert  other vegetables  114
+dessert  pastry  53
+dessert  rolls/buns  67
+dessert  root vegetables  57
+dessert  sausage  58
+dessert  shopping bags  61
+dessert  soda  97
+dessert  tropical fruit  62
+dessert  whole milk  135
+dessert  yogurt  97
+detergent  other vegetables  63
+detergent  whole milk  88
+dishes  other vegetables  59
+dishes  whole milk  52
+domestic eggs  frankfurter  69
+domestic eggs  frozen vegetables  51
+domestic eggs  fruit/vegetable juice  79
+domestic eggs  margarine  82
+domestic eggs  napkins  59
+domestic eggs  newspapers  68
+domestic eggs  other vegetables  219
+domestic eggs  pastry  89
+domestic eggs  pip fruit  85
+domestic eggs  pork  55
+domestic eggs  rolls/buns  154
+domestic eggs  root vegetables  141
+domestic eggs  sausage  94
+domestic eggs  shopping bags  89
+domestic eggs  soda  122
+domestic eggs  tropical fruit  112
+domestic eggs  whipped/sour cream  98
+domestic eggs  white bread  57
+domestic eggs  whole milk  295
+domestic eggs  yogurt  141
+flour  other vegetables  62
+flour  whole milk  83
+frankfurter  frozen vegetables  50
+frankfurter  fruit/vegetable juice  52
+frankfurter  margarine  63
+frankfurter  other vegetables  162
+frankfurter  pastry  82
+frankfurter  pip fruit  71
+frankfurter  pork  58
+frankfurter  rolls/buns  189
+frankfurter  root vegetables  100
+frankfurter  sausage  99
+frankfurter  shopping bags  81
+frankfurter  soda  111
+frankfurter  tropical fruit  93
+frankfurter  whipped/sour cream  61
+frankfurter  white bread  51
+frankfurter  whole milk  202
+frankfurter  yogurt  110
+frozen meals  other vegetables  74
+frozen meals  soda  61
+frozen meals  tropical fruit  54
+frozen meals  whole milk  97
+frozen meals  yogurt  61
+frozen vegetables  fruit/vegetable juice  77
+frozen vegetables  margarine  50
+frozen vegetables  other vegetables  175
+frozen vegetables  pip fruit  72
+frozen vegetables  pork  63
+frozen vegetables  rolls/buns  100
+frozen vegetables  root vegetables  114
+frozen vegetables  sausage  59
+frozen vegetables  soda  85
+frozen vegetables  tropical fruit  86
+frozen vegetables  whipped/sour cream  78
+frozen vegetables  whole milk  201
+frozen vegetables  yogurt  122
+fruit/vegetable juice  long life bakery product  61
+fruit/vegetable juice  margarine  61
+fruit/vegetable juice  napkins  68
+fruit/vegetable juice  newspapers  81
+fruit/vegetable juice  other vegetables  207
+fruit/vegetable juice  pastry  84
+fruit/vegetable juice  pip fruit  94
+fruit/vegetable juice  rolls/buns  143
+fruit/vegetable juice  root vegetables  118
+fruit/vegetable juice  salty snack  59
+fruit/vegetable juice  sausage  99
+fruit/vegetable juice  shopping bags  105
+fruit/vegetable juice  soda  181
+fruit/vegetable juice  tropical fruit  135
+fruit/vegetable juice  whipped/sour cream  89
+fruit/vegetable juice  white bread  73
+fruit/vegetable juice  whole milk  262
+fruit/vegetable juice  yogurt  184
+grapes  other vegetables  89
+grapes  tropical fruit  60
+grapes  whole milk  72
+ham  other vegetables  90
+ham  rolls/buns  68
+ham  tropical fruit  53
+ham  white bread  50
+ham  whole milk  113
+ham  yogurt  66
+hamburger meat  other vegetables  136
+hamburger meat  rolls/buns  85
+hamburger meat  root vegetables  61
+hamburger meat  sausage  51
+hamburger meat  soda  57
+hamburger meat  whole milk  145
+hamburger meat  yogurt  64
+hard cheese  other vegetables  93
+hard cheese  rolls/buns  58
+hard cheese  root vegetables  55
+hard cheese  sausage  51
+hard cheese  whole milk  99
+hard cheese  yogurt  63
+herbs  other vegetables  76
+herbs  root vegetables  69
+herbs  whole milk  76
+hygiene articles  napkins  60
+hygiene articles  other vegetables  94
+hygiene articles  rolls/buns  58
+hygiene articles  root vegetables  53
+hygiene articles  shopping bags  51
+hygiene articles  soda  69
+hygiene articles  tropical fruit  66
+hygiene articles  whole milk  126
+hygiene articles  yogurt  72
+ice cream  other vegetables  50
+ice cream  soda  60
+ice cream  whole milk  58
+long life bakery product  other vegetables  105
+long life bakery product  pastry  58
+long life bakery product  rolls/buns  78
+long life bakery product  root vegetables  52
+long life bakery product  sausage  53
+long life bakery product  shopping bags  53
+long life bakery product  soda  75
+long life bakery product  tropical fruit  62
+long life bakery product  whipped/sour cream  57
+long life bakery product  whole milk  133
+long life bakery product  yogurt  86
+margarine  newspapers  70
+margarine  other vegetables  194
+margarine  pastry  67
+margarine  pip fruit  84
+margarine  pork  63
+margarine  rolls/buns  145
+margarine  root vegetables  109
+margarine  sausage  70
+margarine  shopping bags  56
+margarine  soda  100
+margarine  sugar  54
+margarine  tropical fruit  92
+margarine  whipped/sour cream  67
+margarine  whole milk  238
+margarine  yogurt  140
+meat  other vegetables  98
+meat  rolls/buns  68
+meat  root vegetables  50
+meat  sausage  52
+meat  soda  54
+meat  whole milk  98
+meat  yogurt  52
+misc. beverages  other vegetables  55
+misc. beverages  soda  72
+misc. beverages  whole milk  69
+mustard  whole milk  51
+napkins  newspapers  61
+napkins  other vegetables  142
+napkins  pastry  69
+napkins  pip fruit  66
+napkins  pork  51
+napkins  rolls/buns  115
+napkins  root vegetables  98
+napkins  sausage  66
+napkins  shopping bags  71
+napkins  soda  118
+napkins  tropical fruit  99
+napkins  whipped/sour cream  71
+napkins  whole milk  194
+napkins  yogurt  121
+newspapers  other vegetables  190
+newspapers  pastry  83
+newspapers  pip fruit  66
+newspapers  pork  65
+newspapers  rolls/buns  194
+newspapers  root vegetables  113
+newspapers  sausage  79
+newspapers  shopping bags  68
+newspapers  soda  144
+newspapers  tropical fruit  116
+newspapers  whipped/sour cream  71
+newspapers  whole milk  269
+newspapers  yogurt  151
+oil  other vegetables  98
+oil  rolls/buns  50
+oil  root vegetables  69
+oil  whole milk  111
+oil  yogurt  52
+onions  other vegetables  140
+onions  rolls/buns  67
+onions  root vegetables  93
+onions  soda  52
+onions  tropical fruit  56
+onions  whipped/sour cream  50
+onions  whole milk  119
+onions  yogurt  71
+other vegetables  pastry  222
+other vegetables  pickled vegetables  63
+other vegetables  pip fruit  257
+other vegetables  pork  213
+other vegetables  processed cheese  54
+other vegetables  rolls/buns  419
+other vegetables  root vegetables  466
+other vegetables  salty snack  106
+other vegetables  sausage  265
+other vegetables  semi-finished bread  51
+other vegetables  shopping bags  228
+other vegetables  sliced cheese  89
+other vegetables  soda  322
+other vegetables  soft cheese  70
+other vegetables  specialty bar  55
+other vegetables  specialty chocolate  60
+other vegetables  sugar  106
+other vegetables  tropical fruit  353
+other vegetables  waffles  99
+other vegetables  whipped/sour cream  284
+other vegetables  white bread  135
+other vegetables  whole milk  736
+other vegetables  yogurt  427
+pasta  whole milk  60
+pastry  pip fruit  105
+pastry  pork  62
+pastry  rolls/buns  206
+pastry  root vegetables  108
+pastry  salty snack  51
+pastry  sausage  123
+pastry  shopping bags  117
+pastry  soda  207
+pastry  sugar  51
+pastry  tropical fruit  130
+pastry  waffles  69
+pastry  whipped/sour cream  74
+pastry  white bread  55
+pastry  whole milk  327
+pastry  yogurt  174
+pickled vegetables  whole milk  70
+pip fruit  pork  60
+pip fruit  rolls/buns  137
+pip fruit  root vegetables  153
+pip fruit  sausage  106
+pip fruit  shopping bags  92
+pip fruit  soda  131
+pip fruit  tropical fruit  201
+pip fruit  whipped/sour cream  91
+pip fruit  white bread  65
+pip fruit  whole milk  296
+pip fruit  yogurt  177
+pork  rolls/buns  111
+pork  root vegetables  134
+pork  sausage  64
+pork  shopping bags  63
+pork  soda  117
+pork  tropical fruit  84
+pork  whipped/sour cream  81
+pork  whole milk  218
+pork  yogurt  94
+pot plants  whole milk  68
+processed cheese  soda  52
+processed cheese  whole milk  69
+rolls/buns  root vegetables  239
+rolls/buns  sausage  301
+rolls/buns  shopping bags  192
+rolls/buns  sliced cheese  75
+rolls/buns  soda  377
+rolls/buns  soft cheese  53
+rolls/buns  specialty bar  55
+rolls/buns  specialty chocolate  55
+rolls/buns  sugar  69
+rolls/buns  tropical fruit  242
+rolls/buns  waffles  90
+rolls/buns  whipped/sour cream  144
+rolls/buns  white bread  64
+rolls/buns  whole milk  557
+rolls/buns  yogurt  338
+root vegetables  sausage  147
+root vegetables  shopping bags  126
+root vegetables  sliced cheese  55
+root vegetables  soda  183
+root vegetables  sugar  63
+root vegetables  tropical fruit  207
+root vegetables  waffles  65
+root vegetables  whipped/sour cream  168
+root vegetables  white bread  78
+root vegetables  whole milk  481
+root vegetables  yogurt  254
+salty snack  sausage  52
+salty snack  shopping bags  59
+salty snack  soda  92
+salty snack  tropical fruit  55
+salty snack  whipped/sour cream  51
+salty snack  whole milk  110
+salty snack  yogurt  61
+sausage  shopping bags  154
+sausage  sliced cheese  69
+sausage  soda  239
+sausage  tropical fruit  137
+sausage  whipped/sour cream  89
+sausage  white bread  71
+sausage  whole milk  294
+sausage  yogurt  193
+semi-finished bread  whole milk  70
+shopping bags  soda  242
+shopping bags  tropical fruit  133
+shopping bags  waffles  54
+shopping bags  whipped/sour cream  78
+shopping bags  white bread  73
+shopping bags  whole milk  241
+shopping bags  yogurt  150
+sliced cheese  soda  50
+sliced cheese  tropical fruit  52
+sliced cheese  whole milk  106
+sliced cheese  yogurt  79
+soda  specialty bar  71
+soda  specialty chocolate  62
+soda  sugar  72
+soda  tropical fruit  205
+soda  waffles  94
+soda  whipped/sour cream  114
+soda  white bread  101
+soda  whole milk  394
+soda  yogurt  269
+soft cheese  whole milk  74
+soft cheese  yogurt  59
+specialty bar  whole milk  64
+specialty chocolate  whole milk  79
+sugar  whole milk  148
+sugar  yogurt  68
+tropical fruit  waffles  60
+tropical fruit  whipped/sour cream  136
+tropical fruit  white bread  86
+tropical fruit  whole milk  416
+tropical fruit  yogurt  288
+waffles  whipped/sour cream  50
+waffles  whole milk  125
+waffles  yogurt  74
+whipped/sour cream  white bread  54
+whipped/sour cream  whole milk  317
+whipped/sour cream  yogurt  204
+white bread  whole milk  168
+white bread  yogurt  89
+whole milk  yogurt  551
+beef  other vegetables  rolls/buns  57
+beef  other vegetables  root vegetables  78
+beef  other vegetables  whole milk  91
+beef  other vegetables  yogurt  51
+beef  rolls/buns  whole milk  67
+beef  root vegetables  whole milk  79
+beef  whole milk  yogurt  60
+bottled beer  bottled water  soda  50
+bottled beer  bottled water  whole milk  60
+bottled beer  other vegetables  whole milk  75
+bottled beer  rolls/buns  whole milk  53
+bottled beer  whole milk  yogurt  51
+bottled water  butter  whole milk  53
+bottled water  citrus fruit  other vegetables  50
+bottled water  citrus fruit  whole milk  58
+bottled water  fruit/vegetable juice  soda  51
+bottled water  fruit/vegetable juice  whole milk  57
+bottled water  other vegetables  rolls/buns  72
+bottled water  other vegetables  root vegetables  69
+bottled water  other vegetables  sausage  50
+bottled water  other vegetables  soda  56
+bottled water  other vegetables  tropical fruit  61
+bottled water  other vegetables  whole milk  106
+bottled water  other vegetables  yogurt  80
+bottled water  rolls/buns  soda  67
+bottled water  rolls/buns  tropical fruit  53
+bottled water  rolls/buns  whole milk  86
+bottled water  rolls/buns  yogurt  70
+bottled water  root vegetables  whole milk  72
+bottled water  soda  tropical fruit  51
+bottled water  soda  whole milk  74
+bottled water  soda  yogurt  73
+bottled water  tropical fruit  whole milk  79
+bottled water  tropical fruit  yogurt  70
+bottled water  whole milk  yogurt  95
+brown bread  other vegetables  whole milk  92
+brown bread  other vegetables  yogurt  51
+brown bread  rolls/buns  whole milk  52
+brown bread  root vegetables  whole milk  56
+brown bread  soda  whole milk  50
+brown bread  tropical fruit  whole milk  56
+brown bread  whole milk  yogurt  70
+butter  citrus fruit  whole milk  50
+butter  domestic eggs  whole milk  59
+butter  other vegetables  rolls/buns  56
+butter  other vegetables  root vegetables  65
+butter  other vegetables  tropical fruit  54
+butter  other vegetables  whipped/sour cream  57
+butter  other vegetables  whole milk  113
+butter  other vegetables  yogurt  63
+butter  rolls/buns  whole milk  65
+butter  root vegetables  whole milk  81
+butter  tropical fruit  whole milk  61
+butter  whipped/sour cream  whole milk  66
+butter  whole milk  yogurt  92
+chicken  other vegetables  root vegetables  56
+chicken  other vegetables  whole milk  83
+chicken  rolls/buns  whole milk  52
+chicken  root vegetables  whole milk  59
+chocolate  other vegetables  whole milk  54
+chocolate  soda  whole milk  50
+citrus fruit  domestic eggs  whole milk  56
+citrus fruit  other vegetables  pip fruit  58
+citrus fruit  other vegetables  rolls/buns  59
+citrus fruit  other vegetables  root vegetables  102
+citrus fruit  other vegetables  tropical fruit  89
+citrus fruit  other vegetables  whipped/sour cream  56
+citrus fruit  other vegetables  whole milk  128
+citrus fruit  other vegetables  yogurt  75
+citrus fruit  pip fruit  tropical fruit  55
+citrus fruit  pip fruit  whole milk  51
+citrus fruit  rolls/buns  whole milk  71
+citrus fruit  rolls/buns  yogurt  57
+citrus fruit  root vegetables  tropical fruit  56
+citrus fruit  root vegetables  whole milk  90
+citrus fruit  tropical fruit  whole milk  89
+citrus fruit  tropical fruit  yogurt  62
+citrus fruit  whipped/sour cream  whole milk  62
+citrus fruit  whole milk  yogurt  101
+coffee  other vegetables  whole milk  63
+coffee  whole milk  yogurt  50
+cream cheese   other vegetables  whole milk  66
+cream cheese   other vegetables  yogurt  52
+cream cheese   whole milk  yogurt  65
+curd  other vegetables  root vegetables  54
+curd  other vegetables  tropical fruit  52
+curd  other vegetables  whole milk  97
+curd  other vegetables  yogurt  60
+curd  rolls/buns  whole milk  58
+curd  root vegetables  whole milk  61
+curd  tropical fruit  whole milk  64
+curd  tropical fruit  yogurt  52
+curd  whipped/sour cream  whole milk  58
+curd  whole milk  yogurt  99
+domestic eggs  margarine  whole milk  51
+domestic eggs  other vegetables  rolls/buns  58
+domestic eggs  other vegetables  root vegetables  72
+domestic eggs  other vegetables  soda  50
+domestic eggs  other vegetables  whipped/sour cream  50
+domestic eggs  other vegetables  whole milk  121
+domestic eggs  other vegetables  yogurt  57
+domestic eggs  pip fruit  whole milk  53
+domestic eggs  rolls/buns  whole milk  65
+domestic eggs  root vegetables  whole milk  84
+domestic eggs  soda  whole milk  51
+domestic eggs  tropical fruit  whole milk  68
+domestic eggs  whipped/sour cream  whole milk  56
+domestic eggs  whole milk  yogurt  76
+frankfurter  other vegetables  rolls/buns  55
+frankfurter  other vegetables  whole milk  75
+frankfurter  rolls/buns  whole milk  59
+frankfurter  root vegetables  whole milk  50
+frankfurter  tropical fruit  whole milk  51
+frankfurter  whole milk  yogurt  61
+frozen vegetables  other vegetables  root vegetables  60
+frozen vegetables  other vegetables  whole milk  95
+frozen vegetables  other vegetables  yogurt  52
+frozen vegetables  rolls/buns  whole milk  50
+frozen vegetables  root vegetables  whole milk  61
+frozen vegetables  whole milk  yogurt  60
+fruit/vegetable juice  other vegetables  root vegetables  65
+fruit/vegetable juice  other vegetables  tropical fruit  65
+fruit/vegetable juice  other vegetables  whole milk  103
+fruit/vegetable juice  other vegetables  yogurt  81
+fruit/vegetable juice  rolls/buns  whole milk  55
+fruit/vegetable juice  root vegetables  whole milk  64
+fruit/vegetable juice  soda  whole milk  60
+fruit/vegetable juice  soda  yogurt  50
+fruit/vegetable juice  tropical fruit  whole milk  59
+fruit/vegetable juice  whole milk  yogurt  93
+hamburger meat  other vegetables  whole milk  62
+hygiene articles  other vegetables  whole milk  51
+long life bakery product  other vegetables  whole milk  56
+margarine  other vegetables  rolls/buns  51
+margarine  other vegetables  root vegetables  58
+margarine  other vegetables  whole milk  91
+margarine  other vegetables  yogurt  56
+margarine  rolls/buns  whole milk  78
+margarine  whole milk  yogurt  69
+napkins  other vegetables  whole milk  67
+napkins  rolls/buns  whole milk  52
+napkins  whole milk  yogurt  60
+newspapers  other vegetables  rolls/buns  54
+newspapers  other vegetables  root vegetables  59
+newspapers  other vegetables  whole milk  82
+newspapers  other vegetables  yogurt  55
+newspapers  rolls/buns  whole milk  75
+newspapers  rolls/buns  yogurt  50
+newspapers  root vegetables  whole milk  57
+newspapers  tropical fruit  whole milk  50
+newspapers  whole milk  yogurt  65
+oil  other vegetables  whole milk  50
+onions  other vegetables  root vegetables  56
+onions  other vegetables  whole milk  65
+other vegetables  pastry  rolls/buns  60
+other vegetables  pastry  root vegetables  58
+other vegetables  pastry  soda  54
+other vegetables  pastry  tropical fruit  50
+other vegetables  pastry  whole milk  104
+other vegetables  pastry  yogurt  65
+other vegetables  pip fruit  rolls/buns  50
+other vegetables  pip fruit  root vegetables  80
+other vegetables  pip fruit  tropical fruit  93
+other vegetables  pip fruit  whipped/sour cream  55
+other vegetables  pip fruit  whole milk  133
+other vegetables  pip fruit  yogurt  80
+other vegetables  pork  rolls/buns  55
+other vegetables  pork  root vegetables  69
+other vegetables  pork  whole milk  100
+other vegetables  rolls/buns  root vegetables  120
+other vegetables  rolls/buns  sausage  87
+other vegetables  rolls/buns  shopping bags  52
+other vegetables  rolls/buns  soda  97
+other vegetables  rolls/buns  tropical fruit  77
+other vegetables  rolls/buns  whipped/sour cream  66
+other vegetables  rolls/buns  whole milk  176
+other vegetables  rolls/buns  yogurt  113
+other vegetables  root vegetables  sausage  67
+other vegetables  root vegetables  shopping bags  65
+other vegetables  root vegetables  soda  81
+other vegetables  root vegetables  tropical fruit  121
+other vegetables  root vegetables  whipped/sour cream  84
+other vegetables  root vegetables  whole milk  228
+other vegetables  root vegetables  yogurt  127
+other vegetables  sausage  shopping bags  53
+other vegetables  sausage  soda  71
+other vegetables  sausage  tropical fruit  59
+other vegetables  sausage  whole milk  100
+other vegetables  sausage  yogurt  80
+other vegetables  shopping bags  soda  53
+other vegetables  shopping bags  whole milk  75
+other vegetables  shopping bags  yogurt  53
+other vegetables  soda  tropical fruit  71
+other vegetables  soda  whole milk  137
+other vegetables  soda  yogurt  82
+other vegetables  sugar  whole milk  62
+other vegetables  tropical fruit  whipped/sour cream  77
+other vegetables  tropical fruit  whole milk  168
+other vegetables  tropical fruit  yogurt  121
+other vegetables  whipped/sour cream  whole milk  144
+other vegetables  whipped/sour cream  yogurt  100
+other vegetables  white bread  whole milk  58
+other vegetables  whole milk  yogurt  219
+pastry  pip fruit  whole milk  50
+pastry  rolls/buns  soda  53
+pastry  rolls/buns  whole milk  84
+pastry  rolls/buns  yogurt  57
+pastry  root vegetables  whole milk  56
+pastry  sausage  whole milk  56
+pastry  soda  whole milk  81
+pastry  tropical fruit  whole milk  66
+pastry  whole milk  yogurt  90
+pip fruit  rolls/buns  whole milk  61
+pip fruit  root vegetables  tropical fruit  52
+pip fruit  root vegetables  whole milk  88
+pip fruit  root vegetables  yogurt  52
+pip fruit  sausage  whole milk  55
+pip fruit  tropical fruit  whole milk  83
+pip fruit  tropical fruit  yogurt  63
+pip fruit  whipped/sour cream  whole milk  59
+pip fruit  whole milk  yogurt  94
+pork  rolls/buns  whole milk  61
+pork  root vegetables  whole milk  67
+rolls/buns  root vegetables  tropical fruit  58
+rolls/buns  root vegetables  whole milk  125
+rolls/buns  root vegetables  yogurt  71
+rolls/buns  sausage  shopping bags  59
+rolls/buns  sausage  soda  95
+rolls/buns  sausage  whole milk  92
+rolls/buns  sausage  yogurt  59
+rolls/buns  shopping bags  soda  62
+rolls/buns  shopping bags  whole milk  52
+rolls/buns  soda  tropical fruit  53
+rolls/buns  soda  whole milk  87
+rolls/buns  soda  yogurt  85
+rolls/buns  tropical fruit  whole milk  108
+rolls/buns  tropical fruit  yogurt  86
+rolls/buns  whipped/sour cream  whole milk  77
+rolls/buns  whole milk  yogurt  153
+root vegetables  sausage  whole milk  76
+root vegetables  sausage  yogurt  51
+root vegetables  shopping bags  whole milk  52
+root vegetables  soda  whole milk  80
+root vegetables  tropical fruit  whole milk  118
+root vegetables  tropical fruit  yogurt  80
+root vegetables  whipped/sour cream  whole milk  93
+root vegetables  whipped/sour cream  yogurt  63
+root vegetables  whole milk  yogurt  143
+sausage  shopping bags  soda  56
+sausage  soda  whole milk  66
+sausage  soda  yogurt  55
+sausage  tropical fruit  whole milk  71
+sausage  whipped/sour cream  whole milk  50
+sausage  whole milk  yogurt  86
+shopping bags  soda  whole milk  67
+shopping bags  whole milk  yogurt  52
+soda  tropical fruit  whole milk  77
+soda  tropical fruit  yogurt  65
+soda  whipped/sour cream  whole milk  54
+soda  whole milk  yogurt  103
+tropical fruit  whipped/sour cream  whole milk  78
+tropical fruit  whipped/sour cream  yogurt  61
+tropical fruit  whole milk  yogurt  149
+whipped/sour cream  whole milk  yogurt  107
+citrus fruit  other vegetables  root vegetables  whole milk  57
+fruit/vegetable juice  other vegetables  whole milk  yogurt  50
+other vegetables  pip fruit  root vegetables  whole milk  54
+other vegetables  pip fruit  whole milk  yogurt  50
+other vegetables  rolls/buns  root vegetables  whole milk  61
+other vegetables  rolls/buns  whole milk  yogurt  59
+other vegetables  root vegetables  tropical fruit  whole milk  69
+other vegetables  root vegetables  whipped/sour cream  whole milk  51
+other vegetables  root vegetables  whole milk  yogurt  77
+other vegetables  tropical fruit  whole milk  yogurt  75
+other vegetables  whipped/sour cream  whole milk  yogurt  55
+root vegetables  tropical fruit  whole milk  yogurt  56
+other vegetables  root vegetables  whole milk   ====>citrus fruit  0.25
+citrus fruit  root vegetables  whole milk   ====>other vegetables  0.633333
+root vegetables  whole milk   ====>citrus fruit  other vegetables  0.118503
+citrus fruit  other vegetables  whole milk   ====>root vegetables  0.445312
+citrus fruit  whole milk   ====>other vegetables  root vegetables  0.19
+citrus fruit  other vegetables  root vegetables   ====>whole milk  0.558824
+other vegetables  root vegetables   ====>citrus fruit  whole milk  0.122318
+citrus fruit  root vegetables   ====>other vegetables  whole milk  0.327586
+citrus fruit  other vegetables   ====>root vegetables  whole milk  0.200704
+other vegetables  whole milk  yogurt   ====>fruit/vegetable juice  0.228311
+fruit/vegetable juice  whole milk  yogurt   ====>other vegetables  0.537634
+fruit/vegetable juice  other vegetables  yogurt   ====>whole milk  0.617284
+other vegetables  yogurt   ====>fruit/vegetable juice  whole milk  0.117096
+fruit/vegetable juice  yogurt   ====>other vegetables  whole milk  0.271739
+fruit/vegetable juice  other vegetables  whole milk   ====>yogurt  0.485437
+fruit/vegetable juice  whole milk   ====>other vegetables  yogurt  0.19084
+fruit/vegetable juice  other vegetables   ====>whole milk  yogurt  0.241546
+pip fruit  root vegetables  whole milk   ====>other vegetables  0.613636
+other vegetables  root vegetables  whole milk   ====>pip fruit  0.236842
+root vegetables  whole milk   ====>other vegetables  pip fruit  0.112266
+other vegetables  pip fruit  whole milk   ====>root vegetables  0.406015
+pip fruit  whole milk   ====>other vegetables  root vegetables  0.182432
+other vegetables  pip fruit  root vegetables   ====>whole milk  0.675
+pip fruit  root vegetables   ====>other vegetables  whole milk  0.352941
+other vegetables  root vegetables   ====>pip fruit  whole milk  0.11588
+other vegetables  pip fruit   ====>root vegetables  whole milk  0.210117
+pip fruit  whole milk  yogurt   ====>other vegetables  0.531915
+other vegetables  whole milk  yogurt   ====>pip fruit  0.228311
+other vegetables  pip fruit  yogurt   ====>whole milk  0.625
+pip fruit  yogurt   ====>other vegetables  whole milk  0.282486
+other vegetables  yogurt   ====>pip fruit  whole milk  0.117096
+other vegetables  pip fruit  whole milk   ====>yogurt  0.37594
+pip fruit  whole milk   ====>other vegetables  yogurt  0.168919
+other vegetables  pip fruit   ====>whole milk  yogurt  0.194553
+rolls/buns  root vegetables  whole milk   ====>other vegetables  0.488
+other vegetables  root vegetables  whole milk   ====>rolls/buns  0.267544
+root vegetables  whole milk   ====>other vegetables  rolls/buns  0.126819
+other vegetables  rolls/buns  whole milk   ====>root vegetables  0.346591
+rolls/buns  whole milk   ====>other vegetables  root vegetables  0.109515
+other vegetables  rolls/buns  root vegetables   ====>whole milk  0.508333
+rolls/buns  root vegetables   ====>other vegetables  whole milk  0.25523
+other vegetables  root vegetables   ====>rolls/buns  whole milk  0.130901
+other vegetables  rolls/buns   ====>root vegetables  whole milk  0.145585
+rolls/buns  whole milk  yogurt   ====>other vegetables  0.385621
+other vegetables  whole milk  yogurt   ====>rolls/buns  0.269406
+whole milk  yogurt   ====>other vegetables  rolls/buns  0.107078
+other vegetables  rolls/buns  yogurt   ====>whole milk  0.522124
+rolls/buns  yogurt   ====>other vegetables  whole milk  0.174556
+other vegetables  yogurt   ====>rolls/buns  whole milk  0.138173
+other vegetables  rolls/buns  whole milk   ====>yogurt  0.335227
+rolls/buns  whole milk   ====>other vegetables  yogurt  0.105925
+other vegetables  rolls/buns   ====>whole milk  yogurt  0.140811
+root vegetables  tropical fruit  whole milk   ====>other vegetables  0.584746
+other vegetables  tropical fruit  whole milk   ====>root vegetables  0.410714
+tropical fruit  whole milk   ====>other vegetables  root vegetables  0.165865
+other vegetables  root vegetables  whole milk   ====>tropical fruit  0.302632
+root vegetables  whole milk   ====>other vegetables  tropical fruit  0.143451
+other vegetables  root vegetables  tropical fruit   ====>whole milk  0.570248
+root vegetables  tropical fruit   ====>other vegetables  whole milk  0.333333
+other vegetables  tropical fruit   ====>root vegetables  whole milk  0.195467
+other vegetables  root vegetables   ====>tropical fruit  whole milk  0.148069
+root vegetables  whipped/sour cream  whole milk   ====>other vegetables  0.548387
+other vegetables  whipped/sour cream  whole milk   ====>root vegetables  0.354167
+whipped/sour cream  whole milk   ====>other vegetables  root vegetables  0.160883
+other vegetables  root vegetables  whole milk   ====>whipped/sour cream  0.223684
+root vegetables  whole milk   ====>other vegetables  whipped/sour cream  0.106029
+other vegetables  root vegetables  whipped/sour cream   ====>whole milk  0.607143
+root vegetables  whipped/sour cream   ====>other vegetables  whole milk  0.303571
+other vegetables  whipped/sour cream   ====>root vegetables  whole milk  0.179577
+other vegetables  root vegetables   ====>whipped/sour cream  whole milk  0.109442
+root vegetables  whole milk  yogurt   ====>other vegetables  0.538462
+other vegetables  whole milk  yogurt   ====>root vegetables  0.351598
+whole milk  yogurt   ====>other vegetables  root vegetables  0.139746
+other vegetables  root vegetables  yogurt   ====>whole milk  0.606299
+root vegetables  yogurt   ====>other vegetables  whole milk  0.30315
+other vegetables  yogurt   ====>root vegetables  whole milk  0.180328
+other vegetables  root vegetables  whole milk   ====>yogurt  0.337719
+root vegetables  whole milk   ====>other vegetables  yogurt  0.160083
+other vegetables  whole milk   ====>root vegetables  yogurt  0.10462
+other vegetables  root vegetables   ====>whole milk  yogurt  0.165236
+tropical fruit  whole milk  yogurt   ====>other vegetables  0.503356
+other vegetables  whole milk  yogurt   ====>tropical fruit  0.342466
+whole milk  yogurt   ====>other vegetables  tropical fruit  0.136116
+other vegetables  tropical fruit  yogurt   ====>whole milk  0.619835
+tropical fruit  yogurt   ====>other vegetables  whole milk  0.260417
+other vegetables  yogurt   ====>tropical fruit  whole milk  0.175644
+other vegetables  tropical fruit  whole milk   ====>yogurt  0.446429
+tropical fruit  whole milk   ====>other vegetables  yogurt  0.180288
+other vegetables  whole milk   ====>tropical fruit  yogurt  0.101902
+other vegetables  tropical fruit   ====>whole milk  yogurt  0.212465
+whipped/sour cream  whole milk  yogurt   ====>other vegetables  0.514019
+other vegetables  whole milk  yogurt   ====>whipped/sour cream  0.251142
+other vegetables  whipped/sour cream  yogurt   ====>whole milk  0.55
+whipped/sour cream  yogurt   ====>other vegetables  whole milk  0.269608
+other vegetables  yogurt   ====>whipped/sour cream  whole milk  0.128806
+other vegetables  whipped/sour cream  whole milk   ====>yogurt  0.381944
+whipped/sour cream  whole milk   ====>other vegetables  yogurt  0.173502
+other vegetables  whipped/sour cream   ====>whole milk  yogurt  0.193662
+tropical fruit  whole milk  yogurt   ====>root vegetables  0.375839
+root vegetables  whole milk  yogurt   ====>tropical fruit  0.391608
+whole milk  yogurt   ====>root vegetables  tropical fruit  0.101633
+root vegetables  tropical fruit  yogurt   ====>whole milk  0.7
+tropical fruit  yogurt   ====>root vegetables  whole milk  0.194444
+root vegetables  yogurt   ====>tropical fruit  whole milk  0.220472
+root vegetables  tropical fruit  whole milk   ====>yogurt  0.474576
+tropical fruit  whole milk   ====>root vegetables  yogurt  0.134615
+root vegetables  whole milk   ====>tropical fruit  yogurt  0.116424
+root vegetables  tropical fruit   ====>whole milk  yogurt  0.270531

@@ -1,4 +1,4 @@
- #include <cstdio>  
+#include <cstdio>  
 #include<string>  
 #include <cstring>
 #include<map>  
@@ -67,7 +67,7 @@ string getname(int item){//输入：商品编号，输出：商品名称的字符串
     return s;  
 }  
 void Input(){//输入函数，用于导入实验数据,将初始化的数据保存在DataBase数组中  
-	ifstream f("./project4 - Groceries.csv");//打开文件输入流，导入数据文件 
+	ifstream f("./project4 - Groceries - 2.csv");//打开文件输入流，导入数据文件 
 	
 	/*当数据文件打开失败的时候，直接打印错误信息，退出程序*/ 
 	if(f.fail()){

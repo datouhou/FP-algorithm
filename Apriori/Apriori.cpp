@@ -1,4 +1,4 @@
- #include<iostream>
+#include<iostream>
 #include<set>
 #include<map>
 #include<string>
@@ -234,16 +234,16 @@ Map apriori_gen(Map &Lk,int k){//用于生成1阶以上的频繁项集
          }
          else l_it++;
      } 
-     /*遍历频繁项集，输出结果*/ 
-	   for( Map::iterator l_it=Lk_temp.begin();l_it!=Lk_temp.end();l_it++ ){//遍历频繁项集 
+     /*遍历频繁项集，输出结果，用于调试*/ 
+	   /*for( Map::iterator l_it=Lk_temp.begin();l_it!=Lk_temp.end();l_it++ ){//遍历频繁项集 
 	        for( set<string>::iterator s_it=l_it->first.begin();s_it!=l_it->first.end();s_it++ ){//遍历商品名，输出 
-	             //outfile<<*s_it<<"  ";
+	              //outfile<<*s_it<<"  ";
 	             //cout << *s_it<<" ";
 	         }
 	        //outfile<<l_it->second<<endl;//输出数量 
 	        //cout<<l_it->second<<endl;//输出数量 
 	   
-	   }
+	   }*/ 
    return Lk_temp;
 }
 void result(int k){//根据频繁项集搜索出满足最小置信度的关联关系 
